@@ -13,7 +13,9 @@ st.write(
     """
     This app shows how you can build an internal tool in Streamlit. Here, we are 
     implementing a support ticket workflow. The user can create a ticket, edit 
-    existing tickets, and view some statistics.
+    existing tickets, and view some statistics1212312334.
     """
 )
 
+if st.button("Click me for ballons!"):
+    st.balloons()
