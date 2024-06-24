@@ -7,11 +7,10 @@ import pandas as pd
 import streamlit as st
 import requests
 
-
 #https://my-testing-tw4vkay4oba.streamlit.app/
 #https://docs.streamlit.io/develop/quick-reference/cheat-sheet
 # Show app title and description.
-st.set_page_config(page_title="Support ticket workflow", page_icon="🎫")
+st.set_page_config(page_title="First Streamlit", page_icon="🔥")
 st.title("🎫 Support ticket workflowTest123")
 st.write(
     """
